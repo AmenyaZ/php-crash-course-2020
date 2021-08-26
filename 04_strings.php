@@ -1,5 +1,6 @@
 <?php
 
+echo "1-"; 
 // Create simple string
 
 // String concatenation
