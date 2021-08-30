@@ -11,5 +11,7 @@
             "app\\": "./app"
         }
     },
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "^7.3"
+    }
 }
